@@ -1,0 +1,41 @@
+2d based space game. Back end complexity, make it functional. Start wtih a space ship, goal is to travel the galaxy with a goal to make a profit. Purchase and sell items throughout the galaxy. Start on earth, with at least a space ship and a small amount of money. While on a planet, purchase, sell, or travel. Earth is origin at (0,0) at least two additional planets @ fixed coordinated. Alpha Proxima (0,-4.246) and make up the other. Have at least one random location. Every space ship has fuel, and it takes time to travel so keep the distance, fuel in the ship, and time it takes to travel in mind. You start the game at 18yrs old, and at 62yrs old the robots take you away. Speed using warp units (star trek) D= S*T and T= S/D. Game will have a compeling story!!! Begining, 18yrs old, on the run. Game will have a good ending and bad ending. Game can end at any time! Python project! Each planet has a unique item, good that can only be required there like earth can have trees, meat, wood, etc. Implement a text user interface (with a event loop).
+
+	***Stretch Goals***
+- Upgradable ships
+- Speed-based fuel consumption
+- Minigames (asteroid avoidence, guilds etc.)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### DATA - Planet names= an array of planets, array of goods which can be an array of arrays.
+### UI/ User Input - Wealth = 1100 credits, Current Location = 1 for current location? List locations and have the user choose. Inv,  
+
+	*DATA*
+- Fuel & Ship
+- Planet Locations & Resources
+- Prices of goods (mod file will be code)
+- User Info
+- Inventory
+
+	*CODE*
+- Warp Equation
+- Story
+- Distance
+- Mini-games
+- UI
+- Random Events
+
+	*UI*
+- Speed
+- Purchase Choices
+- Travel
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Display data to the user, update data as changes/choices are made by the user.
+
+Start up = Begin Journey / Exit.
+
+Break each large unit into modules.
